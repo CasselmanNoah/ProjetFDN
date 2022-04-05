@@ -8,14 +8,14 @@ Le projet qui m'est donné est la gestion d'une base de donnée proposé et donn
 Pour ce projet je suis donc developpeur envoyé par l'ESN, entreprise dans laquelle je suis salariés, mon but est donc de retravailler la BDD qui m'est donnée afin de rendre plus simple,accéssible et agréable d'utilisation cette dernière suite à la réalisation du projet.
 
 A la fin du projet les options suivantes seront donc possibles:
-1- Identification à la BDD grâce au identifiant de connexion,
-2- Création des tables initiales et necéssaire si elles ne sont pas déjà créées ( Verifications possible pour voir si elles sont bien créées ),
-3- Créer de tables supplémentaire, les modifier ou bien les supprimer selon les besoins,
-4- Insérer des données dans chaque table, les modifier ou les supprimer selon une fois de plus les besoins,
-5- Un logiciel permettant d'utiliser les fonctionnalités precèdentes,
-6- Pouvoir modifier selon les besoins le logiciel,
-7- Commentaire precisant chaque méthodes,attiributs, chaque élément de ce dernier permmettant une utilisation et modification facile et simple d'accès
-*- Avis et retour de ce logiciel*-
+- Identification à la BDD grâce au identifiant de connexion,
+- Création des tables initiales et necéssaire si elles ne sont pas déjà créées ( Verifications possible pour voir si elles sont bien créées ),
+- Créer de tables supplémentaire, les modifier ou bien les supprimer selon les besoins,
+- Insérer des données dans chaque table, les modifier ou les supprimer selon une fois de plus les besoins,
+- Un logiciel permettant d'utiliser les fonctionnalités precèdentes,
+- Pouvoir modifier selon les besoins le logiciel,
+- Commentaire precisant chaque méthodes,attiributs, chaque élément de ce dernier permmettant une utilisation et modification facile et simple d'accès
+- *Avis et retour de ce logiciel*
 
   B) PRESENTATION DE LA STRUCTURE DES DONNEES:
 
