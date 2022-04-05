@@ -20,10 +20,10 @@ A la fin du projet les options suivantes seront donc possibles:
   B) PRESENTATION DE LA STRUCTURE DES DONNEES:
 
 Premièrement suite à la nouvelle structure de la base de donnée, elle sera non plus composé d'une table mais de 4 tables dont 1 "inutiles" car non utilisé, elle sera indiqué entre parenthèses.Voici donc les tables composant la BDD:
-1- Editeur ( Chaque editeur sera donc composé maintenant d'un nom,prénom et d'une adresse),
-2- Auteur ( Chaque auteur quand à lui sera composé d'un nom,prénom et de son âge),
-3- Produit ( Pour finir le produit sera composé d'un type, d'un titre, de savoir sa disponibilité en stock et de sa date de parution),
-4- (Concevoir, cette dernière n'est pas nécessaire actuellement mais peut être amener à une modification et donc être utiles dans le futur.)
+- Editeur ( Chaque editeur sera donc composé maintenant d'un nom,prénom et d'une adresse),
+- Auteur ( Chaque auteur quand à lui sera composé d'un nom,prénom et de son âge),
+- Produit ( Pour finir le produit sera composé d'un type, d'un titre, de savoir sa disponibilité en stock et de sa date de parution),
+- (Concevoir, cette dernière n'est pas nécessaire actuellement mais peut être amener à une modification et donc être utiles dans le futur.)
 
   C) PRESENTATION DES FONCTIONALITE DU PROGRAMME:
   
