@@ -5,7 +5,7 @@ Projet dev furets du nord,
 
 Le projet qui m'est donné est la gestion d'une base de donnée proposé et donnée par les furets du nord.
 
-Pour ce projet je suis donc developpeur envoyé par l'ESN, entreprise dans laquelle je suis salariés, mon but est donc de retravailler la BDD qui m'est donnée afin de rendre plus simple,accéssible et agréable d'utilisation cette dernière suite à la réalisation du projet.
+Pour ce projet je suis donc developpeur envoyé par l'ESN, entreprise dans laquelle je suis salarié, mon but est donc de retravailler la BDD qui m'est donnée afin de rendre plus simple,accéssible et agréable d'utilisation cette dernière suite à la réalisation du projet.
 
 A la fin du projet les options suivantes seront donc possibles:
 - Identification à la BDD grâce au identifiant de connexion,
