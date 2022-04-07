@@ -15,7 +15,7 @@ A la fin du projet les options suivantes seront donc possibles:
 - Un logiciel permettant d'utiliser les fonctionnalités precèdentes,
 - Pouvoir modifier selon les besoins le logiciel,
 - Commentaire precisant chaque méthodes,attiributs, chaque élément de ce dernier permmettant une utilisation et modification facile et simple d'accès
-- *Avis et retour de ce logiciel*
+- *Avis et retour de ce logiciel*( Facultatif bien sur mais qui pourrait m'aider à comprendre les erreurs potentiels de ma part).
 
   B) PRESENTATION DE LA STRUCTURE DES DONNEES:
 
