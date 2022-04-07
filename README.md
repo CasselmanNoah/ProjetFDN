@@ -36,6 +36,7 @@ Premièrement suite à la nouvelle structure de la base de donnée, elle sera no
   - L'IHM Principale sera plus composé du titre ou encore du message quand on quitte le logiciel mais aussi de choix qui permettent de gerer la BDD et pour finir des choix renvoyant au autre IHM par exemple,
   - Pour finir les IHM Autreur, Editeur et Produit permetteront comme préciser ci-dessus de proposer la création, modification,etc de données précises à chaque table.
 
+Je me permet donc à vous dirigez ver le ficher
 
 
 
