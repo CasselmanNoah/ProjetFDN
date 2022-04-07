@@ -30,8 +30,8 @@ Premièrement suite à la nouvelle structure de la base de donnée, elle sera no
   Pour commencer, le logiciel sera composé en plusieurs parties, voici les différent fichier présent actuellement tous en .dart:
   - "Auteur,Editeur,Produit" qui servent eux à avoir les attributs, getter et setter permettant de saisir ou d'avoir des informations précises ainsi que de savoir si selon un id (permet de différencier chaque champs dans la base de données) est "NULL" ou non donc plus précisément de savoir s'il existe ou non,
   - "Base" va permettre de savoir les attributs de connexion de la base ainsi que différentes méthodes permettant par exmple de créer supprimer les tables de la base de données,
-  - Data qui lui va servir a afficher des données de la table en ajoutant les nom de colonne des table pour avoir une certaines mise en forme,
-  - BaseAuteur,BaseEditeur et BaseProduit vont eux permettre d'ajouter, modifier et supprimer des données dans chaque table ainsi que d'afficher une donnée précise ou bien toutes les données d'un table,
+  - Data qui lui va servir a afficher des données de la table en ajoutant les nom de colonne des tables pour avoir une certaines mise en forme,
+  - BaseAuteur,BaseEditeur et BaseProduit vont eux permettre d'ajouter, modifier et supprimer des données dans chaque tables ainsi que d'afficher une donnée précise ou bien toutes les données d'un table,
   - Puis les "IHM Principale,editeur,auteur et produit" qui servent eux à mettre en forme le logiciel et de permettre une "discussion" avec l'utilisateur en précisant par exemple les actions possibles à faire comme le choix de créer modifier une table,etc,
   - L'IHM Principale sera plus composé du titre ou encore du message quand on quitte le logiciel mais aussi de choix qui permettent de gerer la BDD et pour finir des choix renvoyant au autre IHM par exemple, il sera aussi composé des élément permettant une connexion a la base de donnée qui est necéssaire a l'utilisation du logiciel,
   - Pour finir les IHM Autreur, Editeur et Produit permetteront comme préciser ci-dessus de proposer la création, modification,etc de données précises à chaque table.
