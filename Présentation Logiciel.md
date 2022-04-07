@@ -2,7 +2,7 @@
 ![se connecter -1](https://user-images.githubusercontent.com/77386472/162219455-21a24588-b63e-460f-a903-1572bf538b9c.png)
 
 
-![-2](https://user-images.githubusercontent.com/77386472/162219528-5419b8ae-f9d3-4a67-a06e-25e4fd82a62f.png)
+
 
 
 
