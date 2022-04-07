@@ -7,7 +7,7 @@ Voici donc une bref présentation du logiciel en fonction:
 - Bien sur afin de permettre une certaine sécurité, la saisie du mot de passe est caché.
 ![se connecter -1](https://user-images.githubusercontent.com/77386472/162221264-bb1aabb6-52eb-437d-a9a3-bf3f585f0f30.png)
 
-2- Menu principal du logiciel avec un choix multiples de choses a faire
+2- Menu principal du logiciel avec un choix multiples de choses à faire
 - Ce message s'affichera donc après chaque connexion au lancement du logiciel mais aussi lorsque l'on reviendra au menu principal
 -  afin de choisir un des choix proposés.
 
@@ -38,7 +38,8 @@ Voici donc une bref présentation du logiciel en fonction:
 
 ![affhicer après supprimer -9](https://user-images.githubusercontent.com/77386472/162219804-10037d11-49e8-427f-93af-0110ea70e050.png)
 
-6- Bien sur que ce soit pour la table Produit ou bien Editeur, les action est choix possibles sont les que pour la table Auteur 
+6- Voici donc quelques fonctionnalitées proposées par le logiciel.
+Bien sur que ce soit pour la table Produit ou bien Editeur, les actions est choix possibles sont les mêmes que pour la table Auteur 
 sauf que ces 2 dernières n'ont pas forcèment les mêmes attributs que la table utilisé dans notre exemple (un produit peut par exemple avoir un nom  permettant d'indiquer le nom du produit mais pas un prénom).
 
 7- Pour finir si l'on revient au menu principal, on peut si on le souhaite se deconnecter ce qui nous affiche les messages suivant conduisant ensuite a la fin et l'arrêt du logiciel.
