@@ -268,10 +268,10 @@ class IHMprincipale {
       print("2- Gestion de la table Auteur");
       print("3- Gestion de la table Editeur");
       print("4- Gestion de la table Produit");
-      print("5- Deconnexion");
-      print("0- Quitter");
+      print("0- Deconnexion");
+
       // On indique qu'il y aura 4 choix possible ici
-      choix = IHMprincipale.choixMenu(5);
+      choix = IHMprincipale.choixMenu(4);
       print("--------------------------------------------------");
       // Si le choix saisie == une des valeurs alors on lance le menu
       // correspondant
@@ -281,9 +281,7 @@ class IHMprincipale {
         await IHMAuteurs.menu();
       } else if (choix == 3) {
         await IHMEditeurs.menu();
-      } else if (choix == 4) {
-        await IHMProduits.menu();
-      } else if (choix == 5) {
+      } else if (choix == 0) {
         await IHMprincipale.disconnectToBDD();
       }
     }
